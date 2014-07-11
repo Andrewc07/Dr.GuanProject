@@ -102,6 +102,14 @@ ModelImporter:
     100192: upperBolt
     100194: upperBolt 1
     100196: upperFrame
+    100198: frame 1
+    100200: frame1
+    100202: innerScreen
+    100204: innerScreen1
+    100206: outerScreen
+    100208: outerScreen1
+    100210: projector_L
+    100212: projector_R
     400000: //RootNode
     400002: group1
     400004: group2
@@ -201,6 +209,14 @@ ModelImporter:
     400192: upperBolt
     400194: upperBolt 1
     400196: upperFrame
+    400198: frame 1
+    400200: frame1
+    400202: innerScreen
+    400204: innerScreen1
+    400206: outerScreen
+    400208: outerScreen1
+    400210: projector_L
+    400212: projector_R
     2300000: mirroredCutMesh1
     2300002: mirroredCutMesh1 1
     2300004: pCube1
@@ -289,6 +305,12 @@ ModelImporter:
     2300170: upperBolt
     2300172: upperBolt 1
     2300174: upperFrame
+    2300176: frame 1
+    2300178: frame1
+    2300180: innerScreen
+    2300182: innerScreen1
+    2300184: outerScreen
+    2300186: outerScreen1
     3300000: mirroredCutMesh1
     3300002: mirroredCutMesh1 1
     3300004: pCube1
@@ -377,6 +399,12 @@ ModelImporter:
     3300170: upperBolt
     3300172: upperBolt 1
     3300174: upperFrame
+    3300176: frame 1
+    3300178: frame1
+    3300180: innerScreen
+    3300182: innerScreen1
+    3300184: outerScreen
+    3300186: outerScreen1
     4300000: pCube1
     4300002: pCube3
     4300004: pCube4
@@ -465,6 +493,12 @@ ModelImporter:
     4300170: screen_L_Side01
     4300172: CAVE_base
     4300174: screenCentre01
+    4300176: frame1
+    4300178: innerScreen1
+    4300180: outerScreen1
+    4300182: frame
+    4300184: innerScreen
+    4300186: outerScreen
     6400000: back_mirror
     6400002: back_mirror_base
     6400004: backBrace01
@@ -512,6 +546,12 @@ ModelImporter:
     6400088: upperBolt
     6400090: upperBolt 1
     6400092: upperFrame
+    6400094: frame 1
+    6400096: frame1
+    6400098: innerScreen
+    6400100: innerScreen1
+    6400102: outerScreen
+    6400104: outerScreen1
     9500000: //RootNode
   materials:
     importMaterials: 1
