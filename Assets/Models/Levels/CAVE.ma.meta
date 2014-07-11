@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 4e86623979a4e47c3bd935584672398e
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group1
+    100004: group2
+    100006: mirroredCutMesh1
+    100008: mirroredCutMesh1 1
+    100010: pCube1
+    100012: pCube10
+    100014: pCube10 1
+    100016: pCube11
+    100018: pCube14
+    100020: pCube14 1
+    100022: pCube15
+    100024: pCube15 1
+    100026: pCube16
+    100028: pCube17
+    100030: pCube18
+    100032: pCube19
+    100034: pCube20
+    100036: pCube20 1
+    100038: pCube21
+    100040: pCube22
+    100042: pCube23
+    100044: pCube24
+    100046: pCube25
+    100048: pCube26
+    100050: pCube27
+    100052: pCube28
+    100054: pCube29
+    100056: pCube3
+    100058: pCube30
+    100060: pCube31
+    100062: pCube32
+    100064: pCube33
+    100066: pCube34
+    100068: pCube4
+    100070: pCube7
+    100072: pCube7 1
+    100074: pCube8
+    100076: pCube8 1
+    100078: pCube9
+    100080: pCube9 1
+    100082: pCylinder1
+    100084: pCylinder2
+    100086: pCylinder3
+    100088: pCylinder3 1
+    100090: polySurface3
+    100092: polySurface3 1
+    100094: polySurface4
+    100096: polySurface4 1
+    100098: Projector
+    100100: Projector1
+    100102: Projector2
+    100104: Projector4
+    100106: Projector_Side1
+    100108: Projector_Side2
+    100110: back
+    100112: back_mirror
+    100114: back_mirror_base
+    100116: backBrace01
+    100118: backBrace02
+    100120: backBrace03
+    100122: base
+    100124: base 1
+    100126: bolt01
+    100128: bolt02
+    100130: cable
+    100132: cable 1
+    100134: CAVE_base
+    100136: centre
+    100138: frame
+    100140: mirror
+    100142: mirror 1
+    100144: mirrorFrame01
+    100146: projector_frame_01
+    100148: projector_frame_01 1
+    100150: projector_frame_02
+    100152: projector_frame_02 1
+    100154: projector_frame_back01
+    100156: projector_frame_base
+    100158: projector_frame_base 1
+    100160: projector_frame_top02
+    100162: Projector_L_Side01
+    100164: Projector_R_Side01
+    100166: screen_backstick01
+    100168: screen_backstick01 1
+    100170: screen_backstick02
+    100172: screen_backstick02 1
+    100174: screen_connectorL
+    100176: screen_connectorR
+    100178: screen_L_Side01
+    100180: screen_R_Side01
+    100182: screen_underframe
+    100184: screen_underframe 1
+    100186: screenCentre01
+    100188: top1
+    100190: top_mirror
+    100192: upperBolt
+    100194: upperBolt 1
+    100196: upperFrame
+    400000: //RootNode
+    400002: group1
+    400004: group2
+    400006: mirroredCutMesh1
+    400008: mirroredCutMesh1 1
+    400010: pCube1
+    400012: pCube10
+    400014: pCube10 1
+    400016: pCube11
+    400018: pCube14
+    400020: pCube14 1
+    400022: pCube15
+    400024: pCube15 1
+    400026: pCube16
+    400028: pCube17
+    400030: pCube18
+    400032: pCube19
+    400034: pCube20
+    400036: pCube20 1
+    400038: pCube21
+    400040: pCube22
+    400042: pCube23
+    400044: pCube24
+    400046: pCube25
+    400048: pCube26
+    400050: pCube27
+    400052: pCube28
+    400054: pCube29
+    400056: pCube3
+    400058: pCube30
+    400060: pCube31
+    400062: pCube32
+    400064: pCube33
+    400066: pCube34
+    400068: pCube4
+    400070: pCube7
+    400072: pCube7 1
+    400074: pCube8
+    400076: pCube8 1
+    400078: pCube9
+    400080: pCube9 1
+    400082: pCylinder1
+    400084: pCylinder2
+    400086: pCylinder3
+    400088: pCylinder3 1
+    400090: polySurface3
+    400092: polySurface3 1
+    400094: polySurface4
+    400096: polySurface4 1
+    400098: Projector
+    400100: Projector1
+    400102: Projector2
+    400104: Projector4
+    400106: Projector_Side1
+    400108: Projector_Side2
+    400110: back
+    400112: back_mirror
+    400114: back_mirror_base
+    400116: backBrace01
+    400118: backBrace02
+    400120: backBrace03
+    400122: base
+    400124: base 1
+    400126: bolt01
+    400128: bolt02
+    400130: cable
+    400132: cable 1
+    400134: CAVE_base
+    400136: centre
+    400138: frame
+    400140: mirror
+    400142: mirror 1
+    400144: mirrorFrame01
+    400146: projector_frame_01
+    400148: projector_frame_01 1
+    400150: projector_frame_02
+    400152: projector_frame_02 1
+    400154: projector_frame_back01
+    400156: projector_frame_base
+    400158: projector_frame_base 1
+    400160: projector_frame_top02
+    400162: Projector_L_Side01
+    400164: Projector_R_Side01
+    400166: screen_backstick01
+    400168: screen_backstick01 1
+    400170: screen_backstick02
+    400172: screen_backstick02 1
+    400174: screen_connectorL
+    400176: screen_connectorR
+    400178: screen_L_Side01
+    400180: screen_R_Side01
+    400182: screen_underframe
+    400184: screen_underframe 1
+    400186: screenCentre01
+    400188: top1
+    400190: top_mirror
+    400192: upperBolt
+    400194: upperBolt 1
+    400196: upperFrame
+    2300000: mirroredCutMesh1
+    2300002: mirroredCutMesh1 1
+    2300004: pCube1
+    2300006: pCube10
+    2300008: pCube10 1
+    2300010: pCube11
+    2300012: pCube14
+    2300014: pCube14 1
+    2300016: pCube15
+    2300018: pCube15 1
+    2300020: pCube16
+    2300022: pCube17
+    2300024: pCube18
+    2300026: pCube19
+    2300028: pCube20
+    2300030: pCube20 1
+    2300032: pCube21
+    2300034: pCube22
+    2300036: pCube23
+    2300038: pCube24
+    2300040: pCube25
+    2300042: pCube26
+    2300044: pCube27
+    2300046: pCube28
+    2300048: pCube29
+    2300050: pCube3
+    2300052: pCube30
+    2300054: pCube31
+    2300056: pCube32
+    2300058: pCube33
+    2300060: pCube34
+    2300062: pCube4
+    2300064: pCube7
+    2300066: pCube7 1
+    2300068: pCube8
+    2300070: pCube8 1
+    2300072: pCube9
+    2300074: pCube9 1
+    2300076: pCylinder1
+    2300078: pCylinder2
+    2300080: pCylinder3
+    2300082: pCylinder3 1
+    2300084: polySurface3
+    2300086: polySurface3 1
+    2300088: polySurface4
+    2300090: polySurface4 1
+    2300092: Projector
+    2300094: Projector1
+    2300096: Projector2
+    2300098: Projector4
+    2300100: back_mirror
+    2300102: back_mirror_base
+    2300104: backBrace01
+    2300106: backBrace02
+    2300108: backBrace03
+    2300110: base
+    2300112: base 1
+    2300114: bolt01
+    2300116: bolt02
+    2300118: cable
+    2300120: cable 1
+    2300122: CAVE_base
+    2300124: mirror
+    2300126: mirror 1
+    2300128: mirrorFrame01
+    2300130: projector_frame_01
+    2300132: projector_frame_01 1
+    2300134: projector_frame_02
+    2300136: projector_frame_02 1
+    2300138: projector_frame_back01
+    2300140: projector_frame_base
+    2300142: projector_frame_base 1
+    2300144: projector_frame_top02
+    2300146: screen_backstick01
+    2300148: screen_backstick01 1
+    2300150: screen_backstick02
+    2300152: screen_backstick02 1
+    2300154: screen_connectorL
+    2300156: screen_connectorR
+    2300158: screen_L_Side01
+    2300160: screen_R_Side01
+    2300162: screen_underframe
+    2300164: screen_underframe 1
+    2300166: screenCentre01
+    2300168: top_mirror
+    2300170: upperBolt
+    2300172: upperBolt 1
+    2300174: upperFrame
+    3300000: mirroredCutMesh1
+    3300002: mirroredCutMesh1 1
+    3300004: pCube1
+    3300006: pCube10
+    3300008: pCube10 1
+    3300010: pCube11
+    3300012: pCube14
+    3300014: pCube14 1
+    3300016: pCube15
+    3300018: pCube15 1
+    3300020: pCube16
+    3300022: pCube17
+    3300024: pCube18
+    3300026: pCube19
+    3300028: pCube20
+    3300030: pCube20 1
+    3300032: pCube21
+    3300034: pCube22
+    3300036: pCube23
+    3300038: pCube24
+    3300040: pCube25
+    3300042: pCube26
+    3300044: pCube27
+    3300046: pCube28
+    3300048: pCube29
+    3300050: pCube3
+    3300052: pCube30
+    3300054: pCube31
+    3300056: pCube32
+    3300058: pCube33
+    3300060: pCube34
+    3300062: pCube4
+    3300064: pCube7
+    3300066: pCube7 1
+    3300068: pCube8
+    3300070: pCube8 1
+    3300072: pCube9
+    3300074: pCube9 1
+    3300076: pCylinder1
+    3300078: pCylinder2
+    3300080: pCylinder3
+    3300082: pCylinder3 1
+    3300084: polySurface3
+    3300086: polySurface3 1
+    3300088: polySurface4
+    3300090: polySurface4 1
+    3300092: Projector
+    3300094: Projector1
+    3300096: Projector2
+    3300098: Projector4
+    3300100: back_mirror
+    3300102: back_mirror_base
+    3300104: backBrace01
+    3300106: backBrace02
+    3300108: backBrace03
+    3300110: base
+    3300112: base 1
+    3300114: bolt01
+    3300116: bolt02
+    3300118: cable
+    3300120: cable 1
+    3300122: CAVE_base
+    3300124: mirror
+    3300126: mirror 1
+    3300128: mirrorFrame01
+    3300130: projector_frame_01
+    3300132: projector_frame_01 1
+    3300134: projector_frame_02
+    3300136: projector_frame_02 1
+    3300138: projector_frame_back01
+    3300140: projector_frame_base
+    3300142: projector_frame_base 1
+    3300144: projector_frame_top02
+    3300146: screen_backstick01
+    3300148: screen_backstick01 1
+    3300150: screen_backstick02
+    3300152: screen_backstick02 1
+    3300154: screen_connectorL
+    3300156: screen_connectorR
+    3300158: screen_L_Side01
+    3300160: screen_R_Side01
+    3300162: screen_underframe
+    3300164: screen_underframe 1
+    3300166: screenCentre01
+    3300168: top_mirror
+    3300170: upperBolt
+    3300172: upperBolt 1
+    3300174: upperFrame
+    4300000: pCube1
+    4300002: pCube3
+    4300004: pCube4
+    4300006: pCube11
+    4300008: pCube16
+    4300010: pCube17
+    4300012: pCube22
+    4300014: pCube25
+    4300016: pCube26
+    4300018: Projector1
+    4300020: Projector2
+    4300022: pCylinder1
+    4300024: pCylinder2
+    4300026: pCube18
+    4300028: pCube19
+    4300030: pCube21
+    4300032: pCube23
+    4300034: pCube24
+    4300036: pCube27
+    4300038: pCube28
+    4300040: polySurface3
+    4300042: pCube7
+    4300044: pCube8
+    4300046: pCube9
+    4300048: pCube10
+    4300050: pCube14
+    4300052: Projector
+    4300054: mirroredCutMesh1
+    4300056: polySurface4
+    4300058: pCube15
+    4300060: pCube20
+    4300062: pCylinder3
+    4300064: polySurface3
+    4300066: pCube7
+    4300068: pCube8
+    4300070: pCube9
+    4300072: pCube10
+    4300074: pCube14
+    4300076: Projector4
+    4300078: mirroredCutMesh1
+    4300080: polySurface4
+    4300082: pCube15
+    4300084: pCube20
+    4300086: pCylinder3
+    4300088: pCube29
+    4300090: pCube30
+    4300092: pCube31
+    4300094: pCube32
+    4300096: pCube33
+    4300098: pCube34
+    4300100: mirrorFrame01
+    4300102: back_mirror
+    4300104: back_mirror_base
+    4300106: top_mirror
+    4300108: bolt01
+    4300110: bolt02
+    4300112: upperFrame
+    4300114: backBrace03
+    4300116: backBrace02
+    4300118: backBrace01
+    4300120: projector_frame_back01
+    4300122: projector_frame_top02
+    4300124: base
+    4300126: screen_underframe
+    4300128: screen_backstick01
+    4300130: screen_backstick02
+    4300132: mirror
+    4300134: projector_frame_01
+    4300136: projector_frame_02
+    4300138: projector_frame_base
+    4300140: upperBolt
+    4300142: cable
+    4300144: screen_connectorR
+    4300146: screen_R_Side01
+    4300148: base
+    4300150: screen_underframe
+    4300152: screen_backstick02
+    4300154: screen_backstick01
+    4300156: mirror
+    4300158: projector_frame_01
+    4300160: projector_frame_02
+    4300162: projector_frame_base
+    4300164: upperBolt
+    4300166: cable
+    4300168: screen_connectorL
+    4300170: screen_L_Side01
+    4300172: CAVE_base
+    4300174: screenCentre01
+    6400000: back_mirror
+    6400002: back_mirror_base
+    6400004: backBrace01
+    6400006: backBrace02
+    6400008: backBrace03
+    6400010: base
+    6400012: base 1
+    6400014: bolt01
+    6400016: bolt02
+    6400018: cable
+    6400020: cable 1
+    6400022: CAVE_base
+    6400024: mirror
+    6400026: mirror 1
+    6400028: mirrorFrame01
+    6400030: pCube29
+    6400032: pCube30
+    6400034: pCube31
+    6400036: pCube32
+    6400038: pCube33
+    6400040: Projector
+    6400042: Projector1
+    6400044: Projector2
+    6400046: Projector4
+    6400048: projector_frame_01
+    6400050: projector_frame_01 1
+    6400052: projector_frame_02
+    6400054: projector_frame_02 1
+    6400056: projector_frame_back01
+    6400058: projector_frame_base
+    6400060: projector_frame_base 1
+    6400062: projector_frame_top02
+    6400064: screen_backstick01
+    6400066: screen_backstick01 1
+    6400068: screen_backstick02
+    6400070: screen_backstick02 1
+    6400072: screen_connectorL
+    6400074: screen_connectorR
+    6400076: screen_L_Side01
+    6400078: screen_R_Side01
+    6400080: screen_underframe
+    6400082: screen_underframe 1
+    6400084: screenCentre01
+    6400086: top_mirror
+    6400088: upperBolt
+    6400090: upperBolt 1
+    6400092: upperFrame
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

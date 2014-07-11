@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: d9fe7ba474158480baef36ed7194f68f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: group1
+    100002: group2
+    100004: group3
+    100006: legs
+    100008: legs1
+    100010: pCube1
+    100012: pCube2
+    100014: pCube2 1
+    100016: pCylinder1
+    100018: pCylinder2
+    100020: pCylinder3
+    100022: pCylinder3 1
+    100024: pCylinder4
+    100026: pCylinder4 1
+    100028: pCylinder5
+    100030: pCylinder5 1
+    100032: pCylinder6
+    100034: pCylinder6 1
+    100036: pCylinder7
+    100038: pCylinder7 1
+    100040: pCylinder8
+    100042: pCylinder8 1
+    100044: pCylinder9
+    100046: pCylinder9 1
+    100048: polySurface1
+    100050: polySurface1 1
+    100052: polySurface2
+    100054: pPipe1
+    100056: pPipe1 1
+    100058: pPipe2
+    100060: pPipe2 1
+    100062: //RootNode
+    100064: transform1
+    100066: transform10
+    100068: transform11
+    100070: transform12
+    100072: transform13
+    100074: transform14
+    100076: transform15
+    100078: transform16
+    100080: transform17
+    100082: transform18
+    100084: transform19
+    100086: transform2
+    100088: transform20
+    100090: transform21
+    100092: transform22
+    100094: transform23
+    100096: transform24
+    100098: transform3
+    100100: transform4
+    100102: transform5
+    100104: transform6
+    100106: transform7
+    100108: transform8
+    100110: transform9
+    100112: polySurface4
+    100114: table
+    100116: table_legs
+    400000: group1
+    400002: group2
+    400004: group3
+    400006: legs
+    400008: legs1
+    400010: pCube1
+    400012: pCube2
+    400014: pCube2 1
+    400016: pCylinder1
+    400018: pCylinder2
+    400020: pCylinder3
+    400022: pCylinder3 1
+    400024: pCylinder4
+    400026: pCylinder4 1
+    400028: pCylinder5
+    400030: pCylinder5 1
+    400032: pCylinder6
+    400034: pCylinder6 1
+    400036: pCylinder7
+    400038: pCylinder7 1
+    400040: pCylinder8
+    400042: pCylinder8 1
+    400044: pCylinder9
+    400046: pCylinder9 1
+    400048: polySurface1
+    400050: polySurface1 1
+    400052: polySurface2
+    400054: pPipe1
+    400056: pPipe1 1
+    400058: pPipe2
+    400060: pPipe2 1
+    400062: //RootNode
+    400064: transform1
+    400066: transform10
+    400068: transform11
+    400070: transform12
+    400072: transform13
+    400074: transform14
+    400076: transform15
+    400078: transform16
+    400080: transform17
+    400082: transform18
+    400084: transform19
+    400086: transform2
+    400088: transform20
+    400090: transform21
+    400092: transform22
+    400094: transform23
+    400096: transform24
+    400098: transform3
+    400100: transform4
+    400102: transform5
+    400104: transform6
+    400106: transform7
+    400108: transform8
+    400110: transform9
+    400112: polySurface4
+    400114: table
+    400116: table_legs
+    2300000: pCube1
+    2300002: polySurface2
+    2300004: polySurface4
+    2300006: table
+    2300008: table_legs
+    3300000: pCube1
+    3300002: polySurface2
+    3300004: polySurface4
+    3300006: table
+    3300008: table_legs
+    4300000: pCube1
+    4300002: polySurface2
+    4300004: polySurface4
+    4300006: table
+    4300008: table_legs
+    6400000: table
+    6400002: table_legs
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
