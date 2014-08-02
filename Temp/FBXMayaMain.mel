@@ -17,21 +17,21 @@ else if (getApplicationVersionAsFloat() >= 7.0)
 // the plugin needs to be loaded before we execute the script! (Names arent't found otherwise)
 else if (getApplicationVersionAsFloat() >= 6.5)
 {
-	loadPlugin "/Applications/Unity 4.2.0f4/Unity.app/Contents/Tools/fbxmaya65.lib";
+	loadPlugin "/Applications/Unity/Unity.app/Contents/Tools/fbxmaya65.lib";
 	eval ("source \"/Users/Jordan/Pictures/Artwork/3D/Unity/CAVE/CAVEProject/Temp/FBXMayaExport.mel\"");
 }
 else if (getApplicationVersionAsFloat() >= 6.0) 
 {
-	loadPlugin "/Applications/Unity 4.2.0f4/Unity.app/Contents/Tools/fbxmaya60.lib";
+	loadPlugin "/Applications/Unity/Unity.app/Contents/Tools/fbxmaya60.lib";
 	eval ("source \"/Users/Jordan/Pictures/Artwork/3D/Unity/CAVE/CAVEProject/Temp/FBXMayaExport.mel\"");
 }
 else if (getApplicationVersionAsFloat() >= 5.0)
 {
-	loadPlugin "/Applications/Unity 4.2.0f4/Unity.app/Contents/Tools/fbxmaya50.lib";
+	loadPlugin "/Applications/Unity/Unity.app/Contents/Tools/fbxmaya50.lib";
 	eval ("source \"/Users/Jordan/Pictures/Artwork/3D/Unity/CAVE/CAVEProject/Temp/FBXMayaExport5.mel\"");
 }
 else if (getApplicationVersionAsFloat() >= 4.5) 
 {
-	loadPlugin "/Applications/Unity 4.2.0f4/Unity.app/Contents/Tools/fbxmaya45.lib";
+	loadPlugin "/Applications/Unity/Unity.app/Contents/Tools/fbxmaya45.lib";
 	eval ("source \"/Users/Jordan/Pictures/Artwork/3D/Unity/CAVE/CAVEProject/Temp/FBXMayaExport5.mel\"");
 }

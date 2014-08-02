@@ -1,8 +1,8 @@
 print "Starting maya loading and fbx conversion \n";
 	
-if (`file -q -exists "/Users/Jordan/Pictures/Artwork/3D/Unity/CAVE/CAVEProject/Assets/Models/Levels/incrementalSave/CAVE.ma/CAVE.0012.ma"`)
+if (`file -q -exists "/Users/Jordan/Pictures/Artwork/3D/Unity/CAVE/CAVEProject/Assets/Models/Levels/WallLight.ma"`)
 {		
-	file -o "/Users/Jordan/Pictures/Artwork/3D/Unity/CAVE/CAVEProject/Assets/Models/Levels/incrementalSave/CAVE.ma/CAVE.0012.ma";
+	file -o "/Users/Jordan/Pictures/Artwork/3D/Unity/CAVE/CAVEProject/Assets/Models/Levels/WallLight.ma";
 	FBXExportEmbeddedTextures -v false;
 	// FBXExportHardEdges -v true;
 	FBXExportApplyConstantKeyReducer -v false;

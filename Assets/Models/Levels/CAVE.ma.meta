@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 4e86623979a4e47c3bd935584672398e
 ModelImporter:
-  serializedVersion: 15
+  serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
     100002: group1
@@ -110,6 +110,25 @@ ModelImporter:
     100208: outerScreen1
     100210: projector_L
     100212: projector_R
+    100214: Mirror1:group
+    100216: Mirror1:pasted__back
+    100218: Mirror1:pasted__top_mirror
+    100220: Mirror2:group
+    100222: Mirror2:pasted__back
+    100224: Mirror2:pasted__top_mirror
+    100226: Mirror:group
+    100228: Mirror:pasted__back
+    100230: Mirror:pasted__top_mirror
+    100232: MirrorRN1annotation
+    100234: MirrorRN1group
+    100236: MirrorRN1locator
+    100238: MirrorRN2annotation
+    100240: MirrorRN2group
+    100242: MirrorRN2locator
+    100244: MirrorRNannotation
+    100246: MirrorRNgroup
+    100248: MirrorRNlocator
+    100250: pasted__top_mirror
     400000: //RootNode
     400002: group1
     400004: group2
@@ -217,6 +236,25 @@ ModelImporter:
     400208: outerScreen1
     400210: projector_L
     400212: projector_R
+    400214: Mirror1:group
+    400216: Mirror1:pasted__back
+    400218: Mirror1:pasted__top_mirror
+    400220: Mirror2:group
+    400222: Mirror2:pasted__back
+    400224: Mirror2:pasted__top_mirror
+    400226: Mirror:group
+    400228: Mirror:pasted__back
+    400230: Mirror:pasted__top_mirror
+    400232: MirrorRN1annotation
+    400234: MirrorRN1group
+    400236: MirrorRN1locator
+    400238: MirrorRN2annotation
+    400240: MirrorRN2group
+    400242: MirrorRN2locator
+    400244: MirrorRNannotation
+    400246: MirrorRNgroup
+    400248: MirrorRNlocator
+    400250: pasted__top_mirror
     2300000: mirroredCutMesh1
     2300002: mirroredCutMesh1 1
     2300004: pCube1
@@ -311,6 +349,10 @@ ModelImporter:
     2300182: innerScreen1
     2300184: outerScreen
     2300186: outerScreen1
+    2300188: Mirror1:pasted__top_mirror
+    2300190: Mirror2:pasted__top_mirror
+    2300192: Mirror:pasted__top_mirror
+    2300194: pasted__top_mirror
     3300000: mirroredCutMesh1
     3300002: mirroredCutMesh1 1
     3300004: pCube1
@@ -405,6 +447,10 @@ ModelImporter:
     3300182: innerScreen1
     3300184: outerScreen
     3300186: outerScreen1
+    3300188: Mirror1:pasted__top_mirror
+    3300190: Mirror2:pasted__top_mirror
+    3300192: Mirror:pasted__top_mirror
+    3300194: pasted__top_mirror
     4300000: pCube1
     4300002: pCube3
     4300004: pCube4
@@ -499,6 +545,10 @@ ModelImporter:
     4300182: frame
     4300184: innerScreen
     4300186: outerScreen
+    4300188: Mirror:pasted__top_mirror
+    4300190: Mirror1:pasted__top_mirror
+    4300192: Mirror2:pasted__top_mirror
+    4300194: pasted__top_mirror
     6400000: back_mirror
     6400002: back_mirror_base
     6400004: backBrace01
@@ -552,6 +602,10 @@ ModelImporter:
     6400100: innerScreen1
     6400102: outerScreen
     6400104: outerScreen1
+    6400106: Mirror1:pasted__top_mirror
+    6400108: Mirror2:pasted__top_mirror
+    6400110: Mirror:pasted__top_mirror
+    6400112: pasted__top_mirror
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -560,11 +614,14 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
     animationWrapMode: 0
+    extraExposedTransformPaths: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -592,7 +649,6 @@ ModelImporter:
   humanDescription:
     human: []
     skeleton: []
-    handles: []
     armTwist: .5
     foreArmTwist: .5
     upperLegTwist: .5
@@ -602,6 +658,6 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  additionalBone: 1
   animationType: 2
+  additionalBone: 1
   userData: 

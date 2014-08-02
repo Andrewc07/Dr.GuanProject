@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: ebd1f6da368e9435f840f5f7a1c5cc1e
 ModelImporter:
-  serializedVersion: 15
+  serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
     100002: polySurface1
@@ -14,6 +14,8 @@ ModelImporter:
     100016: Door02 1
     100018: labRoom
     100020: Door03
+    100022: polySurface5
+    100024: polySurface6
     400000: //RootNode
     400002: polySurface1
     400004: polySurface2
@@ -25,6 +27,8 @@ ModelImporter:
     400016: Door02 1
     400018: labRoom
     400020: Door03
+    400022: polySurface5
+    400024: polySurface6
     2300000: polySurface1
     2300002: polySurface3
     2300004: polySurface4
@@ -32,6 +36,9 @@ ModelImporter:
     2300008: Door02 1
     2300010: labRoom
     2300012: Door03
+    2300014: polySurface2
+    2300016: polySurface5
+    2300018: polySurface6
     3300000: polySurface1
     3300002: polySurface3
     3300004: polySurface4
@@ -39,6 +46,9 @@ ModelImporter:
     3300008: Door02 1
     3300010: labRoom
     3300012: Door03
+    3300014: polySurface2
+    3300016: polySurface5
+    3300018: polySurface6
     4300000: polySurface1
     4300002: polySurface3
     4300004: polySurface4
@@ -46,9 +56,18 @@ ModelImporter:
     4300008: Door02
     4300010: Door02
     4300012: Door03
+    4300014: polySurface2
+    4300016: polySurface5
+    4300018: polySurface6
     6400000: Door02
     6400002: Door03
     6400004: labRoom
+    6400006: polySurface1
+    6400008: polySurface2
+    6400010: polySurface3
+    6400012: polySurface4
+    6400014: polySurface5
+    6400016: polySurface6
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -57,11 +76,14 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
     animationWrapMode: 0
+    extraExposedTransformPaths: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -89,7 +111,6 @@ ModelImporter:
   humanDescription:
     human: []
     skeleton: []
-    handles: []
     armTwist: .5
     foreArmTwist: .5
     upperLegTwist: .5
@@ -99,6 +120,6 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  additionalBone: 1
   animationType: 2
+  additionalBone: 1
   userData: 
